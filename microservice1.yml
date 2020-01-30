@@ -1,5 +1,11 @@
 spring:
   application:
-    admin:      enabled: trueserver:  port: 8081
+    admin:
+      enabled: true
+  profiles: null
+    active:
+    - dev
+server:
+  port: 8081
 my:
   setting: specific setting default
