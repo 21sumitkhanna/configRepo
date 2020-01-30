@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: My Test App Dev
+    admin:      enabled: true
+server:  port: 8081
