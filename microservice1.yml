@@ -2,7 +2,7 @@ spring:
   application:
     admin:
       enabled: true
-  profiles: null
+  profiles:
     active:
     - dev
 server:
