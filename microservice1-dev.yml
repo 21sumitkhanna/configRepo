@@ -1,0 +1,5 @@
+spring:
+  application:
+    admin:      enabled: trueserver:  port: 8081
+my:
+  setting: specific setting dev
