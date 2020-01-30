@@ -1,4 +1,2 @@
-spring:
-  application:
-    name: My Test App
-    admin:      enabled: trueserver:  port: 8081
+my: 
+  setting2: setting2
